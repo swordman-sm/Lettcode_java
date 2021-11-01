@@ -1,4 +1,4 @@
-package vip.aevlp.twoSum;
+package vip.aevlp.t1TwoSum;
 
 import java.util.HashMap;
 import java.util.Map;
